@@ -1,2 +1,7 @@
-[Markov chain sentence generation](./et-cetera/markov_chain_sentences.html)
-[Lindenmayer systems implementation](./et-cetera/lindenmayer_2d.html)
+#Sample Projects
+* [Markov chain sentence generation](./et-cetera/markov_chain_sentences.html)
+* [Lindenmayer systems implementation](./et-cetera/lindenmayer_2d.html)
+
+### To Add
+* Neighbor Joining implementation
+* Dynamic programming algorithm
