@@ -1,1 +1,1 @@
-[Markov chain sentence generation](./Et-cetera/markov_chain_sentences.html).
+[Markov chain sentence generation](./et-cetera/markov_chain_sentences.html)
