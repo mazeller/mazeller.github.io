@@ -1,0 +1,3 @@
+[submodule "Et-Cetera"]
+	path = Et-Cetera
+	url = https://github.com/mazeller/Et-Cetera.git
